@@ -1580,8 +1580,8 @@ section {
 
 
 .carousel {
-  width: 68vw;
-  height: 68vh;
+  width: 55vw;
+  height: 63vh;
   position: relative;
 }
 
@@ -1644,3 +1644,4 @@ section {
 .carousel-button.next {
   right: 1rem;
 }
+
